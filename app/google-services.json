@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20369217662",
+    "project_id": "fir-syncandlogin",
+    "storage_bucket": "fir-syncandlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20369217662:android:b3b4e9b196f7266d18a02f",
+        "android_client_info": {
+          "package_name": "com.example.firebasesyncandlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20369217662-2m0akne46udekhhiuciqd201m80ftls1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHZ1_xkiNW3uuEXsSkOkUaK-pwMKUelAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20369217662-2m0akne46udekhhiuciqd201m80ftls1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
